@@ -1,0 +1,16 @@
+name: photovideo_maker
+description: Photo to Video Maker App
+
+version: 1.0.0
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  image_picker: ^1.0.7
+  record: ^5.1.2
+  file_picker: ^8.0.3
+  ffmpeg_kit_flutter: ^6.0.3
+  path_provider: ^2.1.3
